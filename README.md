@@ -1,4 +1,4 @@
-# mufti-todo
+# my-todo
 
 ## Project setup
 ```
